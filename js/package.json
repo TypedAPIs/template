@@ -1,9 +1,9 @@
 {
-  "name": "@api-types/example-site",
+  "name": "@typed-apis/example-site",
   "version": "1.0.0",
   "description": "Types for the api at example.com",
-  "main": "index.js",
-  "types": "index.d.ts",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
