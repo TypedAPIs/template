@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 typing-extensions = "*"
-website-name-api-types = {editable = true, path = "./python"}
+example-site-api-types = {editable = true, path = "./python"}
 
 [dev-packages]
 sphinx = "*"

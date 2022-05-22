@@ -28,7 +28,7 @@
             "index": "pypi",
             "version": "==4.2.0"
         },
-        "website-name-api-types": {
+        "example-site-api-types": {
             "editable": true,
             "path": "./python"
         }
